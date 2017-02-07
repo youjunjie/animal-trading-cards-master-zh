@@ -1,0 +1,28 @@
+/* 添加 CSS */
+.container {
+	margin: 0 auto;
+    border: 1px solid #CCC;
+    padding: 10px;
+    width: 300px; 
+}
+
+.amimal-info {
+	border: 1px solid #CCC;
+	width: 300px; 
+}
+
+.panda-image {
+	width: 300px;
+}
+
+.font-italic {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+}
